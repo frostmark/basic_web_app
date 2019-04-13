@@ -1,1 +1,1 @@
-web: go run main.go
+web: ./basic_web_app
