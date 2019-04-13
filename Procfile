@@ -1,1 +1,1 @@
-web: ./basic_web_app
+web: bin/basic_web_app
